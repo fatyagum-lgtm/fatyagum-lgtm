@@ -1,4 +1,4 @@
-<img src="..." alt="fatima-terminal-v3.gif" width="100%" />
+![Fatima Humbatova — Terminal Banner](./fatima-terminal-v3.gif)
 
 # Fatima Humbatova
 
