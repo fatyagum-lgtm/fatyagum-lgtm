@@ -1,122 +1,57 @@
-<div align="center">
-  <img src="./fatima-terminal-v3.gif" alt="Fatima Humbatova GitHub banner" width="100%" />
-</div>
+# Hi, I'm Fatima Humbatova.
 
-<div align="center">
+**Always learning. Always building. Always protecting.**
 
-**B.S. Computer Science @ Florida International University · Class of 2027**
+I'm a Computer Science student at **Florida International University (Class of 2027)**, exploring cybersecurity, digital forensics, AI security, and systems engineering. I enjoy understanding how systems work, building things that solve real problems, and investigating how they can be made more secure.
 
-<a href="https://www.linkedin.com/in/fatima-humbatova-54749b286/">
-  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=5eead4" alt="LinkedIn" />
-</a>
-<a href="https://github.com/fatyagum-lgtm?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-0f172a?style=flat-square&logo=github&logoColor=5eead4" alt="Repositories" />
-</a>
-<a href="mailto:fatya.gum@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=5eead4" alt="Email" />
-</a>
-
-</div>
+**[Portfolio Website ↗](https://fatyagum-lgtm.github.io/)** · **[LinkedIn ↗](https://www.linkedin.com/in/fatima-humbatova-54749b286/)** · **[Resume ↗](https://fatyagum-lgtm.github.io/assets/fatima-resume.pdf)** · **[Email ↗](mailto:fatya.gum@gmail.com)**
 
 ---
 
-## `01 / about`
+## 01 / featured_projects
 
-- B.S. Computer Science student at **Florida International University (FIU)**
-- Interested in **cybersecurity**, **digital forensics**, **AI-assisted security**, and **software engineering**
-- Building a stronger portfolio of practical, well-documented, research-aware software projects for graduate school applications
-- Focused on writing clean code, understanding systems carefully, and improving through hands-on work
+| Project | What I built and studied | Stack |
+| --- | --- | --- |
+| **[PhishGuard AI](https://github.com/fatyagum-lgtm/phishguard-ai)** | Offline phishing URL and email investigation, explainable ML, domain-disjoint evaluation, calibration, and adversarial robustness experiments. | Python · FastAPI · React · TypeScript |
+| **[TraceTrust](https://github.com/fatyagum-lgtm/tracetrust-network-forensics)** | Network forensics platform for PCAP analysis, traffic reconstruction, and explainable suspicious-activity detection. | C++20 · Network Forensics |
+| **[ExoSearch AI](https://github.com/fatyagum-lgtm/exosearch-ai)** | Exoplanet candidate classification and ranking using TESS catalog data, with model comparisons and TIC-disjoint evaluation. | Python · XGBoost · Machine Learning |
+| **[Digital Evidence Integrity & Timeline Analyzer](https://github.com/fatyagum-lgtm/digital-evidence-integrity-timeline-analyzer)** | SHA-256 evidence snapshots, integrity comparisons, and filesystem metadata timelines for offline forensic workflows. | Python · Digital Forensics |
 
----
+**Currently exploring:** SentinelFlow IDS — a Rust-based streaming intrusion-detection and behavioral analytics project *in development*. Its implementation and results will be shared when verified.
 
-## `02 / experience`
+## 02 / research_and_recognition
 
-### **STARS Peer Tutor** — Knight Foundation School of Computing and Information Sciences  
-`Aug 2025 – Present`
-- Tutor **20+ students daily** in Data Structures and Algorithms
-- Support debugging, programming fundamentals, and independent problem-solving
-- Help students build confidence in technical coursework through guided practice
+**Cyber RECon 2026 — First Place, Defender Category**
 
-### **Technology Intern, Data Analysis** — Konsis Group  
-`Mar 2023 – Jul 2023`
-- Built Python-based data processing pipelines using **Pandas** and **SQL**
-- Extracted, cleaned, and analyzed financial datasets to identify spending patterns
-- Prepared structured reports to support budgeting and reporting workflows
+As part of a team, I worked on AI-assisted cybersecurity requirements assurance for defense-critical infrastructure. Our research was recognized at U.S. Cyber Command's Cyber RECon 2026.
 
-### **Teaching Assistant Intern** — İzmir Institute of Technology  
-`Jul 2021 – Jan 2022`
-- Facilitated Calculus I and Physics problem-solving sessions for 15+ students
-- Supported instructional material preparation and student learning
+[Official DVIDS event photo ↗](https://www.dvidshub.net/image/9756545/student-researchers-tackle-real-world-cyber-challenges-uscybercoms-26-cyber-recon) · [Media.az interview (Russian) ↗](https://media.az/society/azerbajdzhanskaya-studentka-pokoryaet-ssha-zoloto-cyberrecon-2026-intervyu-s-fatimoj-gumbatovoj)
 
----
+**ExoSearch AI — Best Project Presentation, CAI 4002**
 
-## `03 / selected_projects`
+Collaborated on the original four-person academic project, then independently rebuilt and extended its research pipeline. The current repository documents the newer implementation and its limitations.
 
-### **Digital Evidence Integrity & Timeline Analyzer** *(in progress)*  
-A digital forensics project focused on **evidence hashing**, **metadata inspection**, and **timeline reconstruction** while preserving evidence integrity.  
-**Tech:** `Python` `Digital Forensics` `File Analysis`
+## 03 / experience
 
-### **Student Task Manager**  
-A Flask-based task management app for creating, organizing, and tracking tasks with lightweight persistence.  
-**Tech:** `Python` `Flask` `JSON` `HTML/CSS`
+- **STARS Peer Tutor · FIU** *(Aug 2025 – Present)* — Support 20+ students daily in Data Structures and Algorithms, debugging, and problem-solving.
+- **Technology Intern, Data Analysis · Konsis Group** *(Mar – Jul 2023)* — Worked with Python, Pandas, and SQL on financial data processing and analytical reporting.
+- **Teaching Assistant Intern · İzmir Institute of Technology** *(Jul 2021 – Jan 2022)* — Supported Calculus I and Physics problem-solving sessions and teaching materials.
 
-### **IndieHub** *(in progress)*  
-A software engineering team project for structured beta testing, bug reporting, and tester hardware profiling for indie game developers.  
-**Tech:** `Software Engineering` `Requirements Analysis` `Team Project`
+## 04 / leadership_and_community
 
-### **FitStream**  
-A fitness video streaming platform project with work on browsing, favorites, recommendation-oriented features, and team collaboration.  
-**Tech:** `Frontend` `Software Engineering` `Integration Testing`
+- **INIT FIU / ShellHacks** — Active member and hackathon team lead at ShellHacks 2025 and 2026, coordinating technical work and prototype presentations.
+- **Women in Computer Science (WiCS), FIU** — Participate in technical workshops, peer learning, and community activities.
 
-### **ExoSearch AI**  
-A machine-learning class project using NASA TESS data, Logistic Regression, and XGBoost to classify and prioritize exoplanet candidates.  
-**Tech:** `Python` `Machine Learning` `XGBoost` `Data Analysis`
+## 05 / technical_toolkit
 
-> More repositories will be added as new projects are completed.
+**Languages:** Python · C++ · Java · TypeScript · SQL · HTML/CSS
 
----
+**Frameworks & tools:** FastAPI · React · scikit-learn · Pandas · XGBoost · Git/GitHub
 
-## `04 / technical_toolkit`
+## 06 / connect
 
-### Languages
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=5eead4)
-![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=5eead4)
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=flat-square&logo=cplusplus&logoColor=5eead4)
-![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=5eead4)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=5eead4)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=5eead4)
+I'm open to conversations about research, cybersecurity, and building useful technology.
 
-### Tools & Frameworks
-![Flask](https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=5eead4)
-![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=5eead4)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=5eead4)
-![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=5eead4)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-111827?style=flat-square&logo=python&logoColor=5eead4)
-![XGBoost](https://img.shields.io/badge/XGBoost-111827?style=flat-square&logo=databricks&logoColor=5eead4)
+**[Explore my portfolio ↗](https://fatyagum-lgtm.github.io/)** · **[Connect on LinkedIn ↗](https://www.linkedin.com/in/fatima-humbatova-54749b286/)** · **[Send an email ↗](mailto:fatya.gum@gmail.com)**
 
----
-
-## `05 / leadership_and_community`
-
-### **INIT FIU**
-- Member and hackathon participant
-- ShellHacks team lead experience
-- Engaged in technical collaboration, workshops, and prototype development
-
-### **Women in Computer Science (WiCS)**
-- Participated in workshops, networking events, and peer-learning activities
-- Involved in communities supporting women pursuing careers in technology
-
----
-
-## `06 / contact`
-
-- **LinkedIn:** [fatima-humbatova-54749b286](https://www.linkedin.com/in/fatima-humbatova-54749b286/)
-- **GitHub:** [fatyagum-lgtm](https://github.com/fatyagum-lgtm)
-- **Email:** fatya.gum@gmail.com
-
----
-
-<div align="center">
-  <sub><code>build clearly • document carefully • keep learning</code></sub>
-</div>
+*Build thoughtfully. Test carefully. Keep learning.*
