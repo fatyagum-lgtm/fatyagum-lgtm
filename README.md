@@ -1,4 +1,4 @@
-<img src="..." alt="banner" width="100%" />
+<img src="..." alt="fatima-terminal-v3.gif" width="100%" />
 
 # Fatima Humbatova
 
